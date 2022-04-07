@@ -14,6 +14,6 @@ Skills: **Python** / **C#**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConterBox&theme=dark)](https://github.com/anuraghazra/github-readme-statst)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ConterBox)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ConterBox&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/ConterBox)  
