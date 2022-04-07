@@ -8,7 +8,7 @@ Skills: **Python** / **C#**
 - 📫 How to reach me: **Telegram**: @ConterBox 
 - ⚡ Fun fact: I started learning Python by running a Python script. 
 
-[<img src='https://i1.wp.com/gamodrome.de/wp-content/uploads/2019/06/Discord-Banner.png?ssl=1' height='150' weight='70'>](https://discord.gg/TN5NbsUn2C)
+[<img src='https://i1.wp.com/gamodrome.de/wp-content/uploads/2019/06/Discord-Banner.png?ssl=1' height='250' weight='30'>](https://discord.gg/TN5NbsUn2C)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ConterBox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/conterbox)
 
