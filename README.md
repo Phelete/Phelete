@@ -12,7 +12,7 @@ Skills: **Python** / **C#**
 
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111374.png' alt='github' height='40'>](https://github.com/ConterBox)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png' alt='vk' height='40'>](https://vk.com/conterbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConterBox&theme=dark)](https://github.com/anuraghazra/github-readme-statst)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConterBox&theme=dark)]
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ConterBox&theme=dark)  
 
