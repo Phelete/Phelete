@@ -10,6 +10,8 @@ Skills: **Python**
 
 ![Codewars Widget](https://www.codewars.com/users/ConterBox/badges/large)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConterBox&theme=dark)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ConterBox&theme=dark)
 
 ![Profile views](https://gpvc.arturio.dev/ConterBox)
