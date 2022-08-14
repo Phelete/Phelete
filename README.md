@@ -4,7 +4,7 @@ I wanna be programmer.
 
 Skills: **Python**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Python, Linux**
 - 📫 How to reach me: **Telegram**: @ConterBox 
 - ⚡ Fun fact: I started learning Python by running a Python script.
 
