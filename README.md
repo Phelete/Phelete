@@ -1,6 +1,6 @@
 ### Hi there 👋, my nickname is ConterBox
 #### I am learning programming now.
-I was born and living in Kazakhstan, i wanna be programmer.
+I wanna be programmer.
 
 Skills: **Python**
 
