@@ -6,10 +6,10 @@ Skills: **Python**
 
 - 🌱 I’m currently learning **C#**
 - 📫 How to reach me: **Telegram**: @ConterBox 
-- ⚡ Fun fact: I started learning Python by running a Python script. 
-
-[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111374.png' alt='github' height='40'>](https://github.com/ConterBox)
+- ⚡ Fun fact: I started learning Python by running a Python script.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConterBox&theme=dark)
+
+![Codewars Widget](https://www.codewars.com/users/ConterBox/badges/large)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ConterBox&theme=dark)
 
