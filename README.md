@@ -5,7 +5,7 @@ I wanna be programmer.
 Skills: **Python**
 
 - 🌱 I’m currently learning **Python, Linux**
-- 📫 How to reach me: **Telegram**: @ConterBox 
+- 📫 How to reach me: [**Telegram**](https://t.me/becenen)
 - ⚡ Fun fact: I started learning Python by running a Python script.
 
 ![Codewars Widget](https://www.codewars.com/users/ConterBox/badges/large)
