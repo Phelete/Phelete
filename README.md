@@ -16,4 +16,4 @@ Skills: **Python**
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ConterBox&theme=dark)
 
-![Profile views](https://gpvc.arturio.dev/ConterBox) [![wakatime](https://wakatime.com/badge/user/a4b8c60e-9615-4fd6-b89a-e9f542d2d6ff.svg)](https://wakatime.com/@a4b8c60e-9615-4fd6-b89a-e9f542d2d6ff)
+![Profile views](https://gpvc.arturio.dev/ConterBox) [![wakatime](https://wakatime.com/badge/user/a4b8c60e-9615-4fd6-b89a-e9f542d2d6ff.svg)]
