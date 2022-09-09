@@ -10,8 +10,10 @@ Skills: **Python**
 
 ![Codewars Widget](https://www.codewars.com/users/ConterBox/badges/large)
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ConterBox&layout=compact)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConterBox&theme=dark)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ConterBox&theme=dark)
 
-![Profile views](https://gpvc.arturio.dev/ConterBox)
+![Profile views](https://gpvc.arturio.dev/ConterBox) [![wakatime](https://wakatime.com/badge/user/a4b8c60e-9615-4fd6-b89a-e9f542d2d6ff.svg)](https://wakatime.com/@a4b8c60e-9615-4fd6-b89a-e9f542d2d6ff)
