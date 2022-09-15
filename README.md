@@ -8,7 +8,7 @@ Skills: **Python**
 - 📫 How to reach me: [**Telegram**](https://t.me/becenen)
 - ⚡ Fun fact: I started learning Python by running a Python script.
 
-![Codewars Widget](https://www.codewars.com/users/ConterBox/badges/large)
+![Codewars Widget](https://www.codewars.com/users/Phelete/badges/large)
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ConterBox&layout=compact&theme=dark)
 
