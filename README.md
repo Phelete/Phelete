@@ -10,7 +10,7 @@ Skills: **Python**
 
 ![Codewars Widget](https://www.codewars.com/users/Phelete/badges/large)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ConterBox&layout=compact&theme=dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Phelete&layout=compact&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phelete&theme=dark)
 
