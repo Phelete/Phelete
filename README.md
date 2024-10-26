@@ -1,11 +1,10 @@
 ### Hi there 👋, my nickname is Phelete
-#### I am learning programming now.
-I wanna be programmer.
+#### I am studying at BUT FIT now.
 
-Skills: **Python**
+Skills: **Python, Linux**
 
-- 🌱 I’m currently learning **Python, Linux**
-- 📫 How to reach me: [**Telegram**](https://t.me/phelete)
+- 🌱 I’m currently learning **C**
+- 📫 How to reach me: [**Telegram**](https://t.me/becenen)
 - ⚡ Fun fact: I started learning Python by running a Python script.
 
 ![Codewars Widget](https://www.codewars.com/users/Phelete/badges/large)
